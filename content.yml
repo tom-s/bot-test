@@ -1,9 +1,9 @@
 welcome:
   - text: Hello!
-    typing: true
-  - wait: 2s
+    typing: 1s
   - text: What can I do for you ?
-    typing: true
+    typing: 1s
 
 goodbye:
   - text: Hope to see you back again soon!
+    typing: 1s
