@@ -1,0 +1,19 @@
+{
+  "name": "bot-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "botpress": "1.x",
+    "botpress-web": "1.x",
+    "botpress-webhook": "^1.0.1",
+    "botpress-wit": "^2.0.12",
+    "lodash": "^4.17.4"
+  },
+  "scripts": {
+    "start": "botpress start --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Botpress Proprietary License"
+}
